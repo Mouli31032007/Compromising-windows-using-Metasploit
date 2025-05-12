@@ -102,5 +102,5 @@ keyscan_dump	Shows the keystrokes captured so far
 
 
 ## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully.
+The Metasploit framework for reconnaissance is  examined successfully
 
